@@ -1,0 +1,100 @@
+[
+
+    {
+        "header": "DXC Technology",
+        "text": "DXC Technology is an American multinational Fortune 500 company with more than 140,000 employees worldwide. In this project we created a campaign landing page for the company, a form - where the user can give their contact details and approval to be contacted - and a web version of a PDF. My role was to redesign and develop the consent form which I did using HTML, SCSS and JavaScript modules. I also implemented the database to storage the gathered data.",
+        "image": "dxc_1.jpg",
+        "skills": "Web Forms | SCSS",
+        "semester": "3rd semester",
+        "github": "https://github.com/aria0401/DXC",
+        "website": "https://aria0401.github.io/DXC/form.html",
+        "carrousel":[
+            "dxc_1.jpg",
+            "dxc_2.jpg",
+            "dxc_3.jpg",
+            "dxc_4.jpg"
+
+        ]
+    },
+    {
+        "header": "Hogwarts's Students List",
+        "text": "This is a desktop application in which I created a list of students where the user could interac mainly in four different ways: filtering and sorting the list; selecting a student as a prefect (only a boy and a girl from each house); removing a student from the list; and selecting a student for the inquisitorial Squad based on the student's blood status. I developed this application using vanilla javascript.",
+        "image": "hogwarts_1.jpg",
+        "skills": "Vanilla JavaScript",
+        "semester": "3rd semester",
+        "github": "https://github.com/aria0401/Hogwarts-Students-List",
+        "website": "http://ariadna.dk/portfolio/Hogwarts-Students-List/",
+        "carrousel":[
+            "hogwarts_1.jpg",
+            "hogwarts_2.jpg",
+            "hogwarts_3.jpg",
+            "hogwarts_4.jpg"
+        ]
+    },
+    {
+        "header": "Jazz By Heart",
+        "text": "In this project we created a website for the jazz duo Jazz By Heart, to promote their music and ideas. My role was to implement a backend in WordPress  as well as the HTML, and JavaScript for the site. I also did all the production and post production of a promotional video for the duo.",
+        "image": "jazz_by_heart_1.jpg",
+        "skills": "REST API | WordPress | Premiere Pro",
+        "semester": "2nd semester",
+        "github": "https://github.com/aria0401/Jazz-By-Heart",
+        "website": "http://ariadna.dk/portfolio/Jazz-By-Heart/",
+        "youtube": "https://youtu.be/3bBIElH0mdc",
+        "carrousel":[
+            "jazz_by_heart_1.jpg",
+            "jazz_by_heart_2.jpg",
+            "jazz_by_heart_3.jpg",
+            "jazz_by_heart_4.jpg"
+        ]
+    },
+    {
+        "header": "Muserne",
+        "text": "Muserne is about the women in Picasso's life and how they influenced his art over time. In this project I implemented the  HTML, CSS and JavaScript for the site and fetched the data from a Google Sheet.",
+        "image": "picasso_1.jpg",
+        "skills": "Google Sheets API",
+        "semester": "2nd semester",
+        "github": "https://github.com/aria0401/Muserne",
+        "website": "http://ariadna.dk/portfolio/Muserne/",
+        "carrousel":[
+            "picasso_1.jpg",
+            "picasso_2.jpg",
+            "picasso_3.jpg",
+            "picasso_4.jpg"
+        ]
+    },
+
+    {
+        "header": "21-5",
+        "text": "The company 21-5 is based on the concept that 21 Danish families together own 5 holiday homes around the world. In this project we redesigned their website to promote their values and enhance the user experience. My role was the implementation of a dashboard in WordPress as well as the HTML, CSS and JavaScript for the site.",
+        "image": "21-5_1.jpg",
+        "skills": "REST API | WordPress",
+        "semester": "2nd semester",
+        "github": "https://github.com/aria0401/21-5",
+        "website": "http://ariadna.dk/portfolio/21-5/",
+        "carrousel":[
+            "21-5_1.jpg",
+            "21-5_2.jpg",
+            "21-5_3.jpg",
+            "21-5_4.jpg"
+           
+        ]
+    },
+
+    {
+        "header": "Sex og Samfund",
+        "text": "In this project we created a game with the aim of spreading knowledge about illegal image sharing. I worked with the illustrations, where we chose Pixel Art as the style, and worked in Adobe Illustrator with the Rectangular Grid Tool and the Live Paint Bucket Tool.",
+        "image": "sex_samfund_1.jpg",
+        "skills": "Adobe Illustrator",
+        "semester": "1st semester",
+        "github": "https://github.com/aria0401/Sex-og-Samfund",
+        "website": "http://ariadna.dk/portfolio/Sex-og-Samfund/",
+        "carrousel":[
+            "sex_samfund_1.jpg",
+            "sex_samfund_2.jpg",
+            "sex_samfund_3.jpg",
+            "sex_samfund_4.jpg"
+        ]
+    }
+
+
+]

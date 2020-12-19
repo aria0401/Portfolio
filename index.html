@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300&family=Source+Serif+Pro:wght@300&family=Staatliches&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@600&display=swap" rel="stylesheet">
+    <link rel="apple-touch-icon" sizes="180x180" href="myIcons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="myIcons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="myIcons/favicon-16x16.png">
+    <link rel="manifest" href="myIcons/site.webmanifest">
+    <link rel="shortcut icon" href="myIcons/favicon.ico">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="msapplication-config" content="myIcons/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    <title>Ariadna Victorero | Portfolio</title>
+    <meta name="description" content="My name is Ariadna, and I am a multimedia design student at KEA. I design and develop websites">
+    
+
+</head>
+<body>
+    <main>
+        <header>
+            <div class="mobil_nav"> <nav>
+                <div id="burgermenu">☰</div>
+               <ul id="menu" class="hidden">
+                   <li> <a href="#projects">Projects</a></li>
+                   <li><a href="#about">About Me</a></li>
+                   <li>  <a href="#contact">Contact</a></li>
+               </ul>    
+            </nav>
+        </div>
+        </header>
+      
+        <div id="home">
+            <div class="intro fade_in">
+                <h1>frontend development</h1>
+                <p>Hi! My name is Ariadna, and I am a multimedia design student at KEA. I design & develop websites.</p>
+                <!-- <a href="#projects" class="see_projects"> 👇See my projects</a> -->
+            </div>
+            <div class="intro_img fade_in">
+                <img src="images/ariadna_gul.svg" alt="illustration woman">
+            </div>
+            <div class="svg fade_in">
+                <svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+                    <polyline class="arrow scroll1" points="20,0 50,30 80,0"
+                              fill="none" />
+                    <polyline class="arrow scroll2" points="20,30 50,60 80,30"
+                              fill="none" />
+                  </svg>
+            </div>
+
+        </div>
+
+ 
+
+        <div id="projects">
+            <h1 class="projects_header">Projects</h1>
+            <p class="projects_text">As multimedia designer, I create engaging online experiences for users. 
+                It’s a fine balance of applying technology, design, research, and experimentation.</p>
+            <div class="projects_container"></div>
+            <template class="projects_template">
+                <article class="each_project">
+                    <div class="splash" data-text="">
+                        <img class="image" src="" alt="">
+                    </div>
+
+
+                    <section>
+                        <p class="skills"></p>
+                    </section>
+
+                </article>
+            </template>  
+            <section id="details_popup" class="hide">
+                <div id="details_carrousel">
+                   
+                    <div class="carrousel_container">
+                        <button>✗</button>
+                        <div class="carrousel">
+                            <div class="carrousel_inner">
+        
+                                <div class="the_container">
+                                </div>
+        
+                            </div>
+                            <div class="img_container">
+                                <div class="backward button">
+                                    <button>&lt;</button>
+                                </div>
+                                <div class="legend_img_container">
+                                </div>
+                                <div class="forward button">
+                                    <button>&gt;</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="text">
+                        <h1 class="project_header"></h1>
+                        <h3 class="semester"></h3>
+                        <p class="project_text"></p>
+                        <a class="link_github" href="" target="_blank" rel="noopener noreferrer">
+                            <img class="icon_github icon" src="" alt=""> </a>
+                        <a class="link_website" href="" target="_blank" rel="noopener noreferrer">
+                            <img class="icon_website icon" src="" alt=""> </a>
+                        <a class="link_youtube" href="" target="_blank" rel="noopener noreferrer">
+                            <img class="icon_youtube icon" src="" alt=""> </a>
+                        
+                    </div>
+                </div>
+            </section>
+            <template class="carrousel_template">
+                <section>
+                    <img class="carrousel_imgs">
+                </section>
+            </template>
+        </div>
+
+        <div id="about"> 
+            <section class="section_1 img_right">
+                <div class="section_1_content content">
+                    <h1 class="about_header">About Me</h1>
+                    <div class="text_box"> 
+                        <p class="about_text">I am a driven individual with excitement and energy to spare. I have a background in environmental 
+                            management but I have recently found a passion for designing and developing websites. 
+                           I am a mother of two boys with whom I am fortunate to share all the new things I can build on the internet.</p>
+                    </div>
+                </div>
+
+                <div class="section_1_image image">
+                    <img src="images/Ariadna4.JPG" alt="" class="vertical about_img">
+                    <img src="images/Ariadna1.JPG" alt="" class="horizontal about_img">
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer  id="contact">
+        <h1 class="contact_header">Contact</h1>
+        <div class="text_box contact_text"> 
+            <p>Did you like my projects and are interested in hiring me? 
+                You are very welcome to find me on LinkedIn or just send me an email.</p>
+                <a href="http://linkedin.com/in/ariadnavictorero" target="blank"><img src="images/linkedin.svg" alt="linkedin ariadna" class="icon"></a>
+                <a href="mailto:vr.ariadna@gmail.com" target="blank"><img src="images/email.svg" alt="email ariadna" class="icon"></a>
+    
+            </div>
+            <p class="copyright">© Ariadna Victorero Ravelo 2020</p> 
+    </footer>
+ <script src="script.js"></script>  
+</body>
+</html>

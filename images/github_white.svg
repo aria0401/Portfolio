@@ -1,0 +1,24 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 190">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M99.5,6C47.31,6,5,47.19,5,98c0,41.3,28,76.23,66.43,87.87a4.42,4.42,0,0,0,5.71-4.42c-.25-5.69-.5-14.59-.18-23.09-4.84,1.35-25.3,4.74-32-14.36-9.5-17.5-14.5-10.5-13-17,1.5-3.5,14,1,17,6,10.63,15.73,24.87,12.91,29.2,11.81.87-5,2.23-8.74,4.32-9.65a.1.1,0,0,0,0-.2C16.17,129.69,49,71,49,71s-3-21,2-26c10-2,26,11,26,11s28-9,47,1c0-2,18-14,25-12,8,4,3,27,3,27,4,2,33.35,57.45-32.38,62.88a.44.44,0,0,0-.25.78c7.33,5.17,6.87,34,6.34,46a3.39,3.39,0,0,0,4.43,3.38C167.29,172.67,194,138.37,194,98,194,47.19,151.69,6,99.5,6Z"/>
+  <g>
+    <ellipse class="cls-2" cx="75" cy="149.5" rx="2" ry="1.5"/>
+    <ellipse class="cls-2" cx="66.5" cy="150.12" rx="1.5" ry="1.12"/>
+    <ellipse class="cls-2" cx="59.33" cy="148" rx="1" ry="1.33" transform="translate(-99.68 159.8) rotate(-72.4)"/>
+    <ellipse class="cls-2" cx="53" cy="143.75" rx="0.75" ry="1" transform="translate(-86.12 79.58) rotate(-45)"/>
+    <ellipse class="cls-2" cx="48.67" cy="138.5" rx="0.5" ry="0.67" transform="translate(-83.68 74.98) rotate(-45)"/>
+    <ellipse class="cls-2" cx="45.61" cy="134.11" rx="0.35" ry="0.47" transform="translate(-81.47 71.53) rotate(-45)"/>
+    <ellipse class="cls-2" cx="41.62" cy="131.18" rx="0.31" ry="0.41" transform="translate(-80.57 67.85) rotate(-45)"/>
+  </g>
+</svg>
