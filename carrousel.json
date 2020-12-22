@@ -1,19 +1,35 @@
 [
 
     {
-        "header": "DXC Technology",
-        "text": "DXC Technology is an American multinational Fortune 500 company with more than 140,000 employees worldwide. In this project we created a campaign landing page for the company, a form - where the user can give their contact details and approval to be contacted - and a web version of a PDF. My role was to redesign and develop the consent form which I did using HTML, SCSS and JavaScript modules. I also implemented the database to storage the gathered data.",
-        "image": "dxc_1.jpg",
-        "skills": "Web Forms | SCSS",
+        "header": "FooBar Dashboard",
+        "text": "In this project, we created a dashboard to show the state at FooBar. We used React.js and SCSS as main technologies, but we also used libraries like 'styled-components' to improve the user interface. My role was to design and implement the Taps component among other tasks.",
+        "image": "foobar-dashboard_1.jpg",
+        "skills": "React | Sass",
         "semester": "3rd semester",
-        "github": "https://github.com/aria0401/DXC",
-        "website": "https://aria0401.github.io/DXC/form.html",
+        "github": "https://github.com/aria0401/foobar-dashboard",
+        "website": "https://aria0401.github.io/foobar-dashboard/",
         "carrousel":[
-            "dxc_1.jpg",
-            "dxc_2.jpg",
-            "dxc_3.jpg",
-            "dxc_4.jpg"
+            "foobar-dashboard_2.jpg",
+            "foobar-dashboard_3.jpg",
+            "foobar-dashboard_4.jpg",
+            "foobar-dashboard_5.jpg"
 
+        ]
+    },
+
+    {
+        "header": "FooBar Shop",
+        "text": "In this project, we developed an ordering app for the customers at FooBar to order beers and pay for their order. The app is to be used only on Ipads, but we made it responsive for all devices. We used React.js and SCSS as main technologies, but we also used libraries like 'react-hook-form' to improve the user experience. My role was to design and implement the Form component among other tasks.",
+        "image": "foobar-shop_7.jpg",
+        "skills": "React Hook Form",
+        "semester": "3rd semester",
+        "github": "https://github.com/aria0401/FooBar",
+        "website": "https://aria0401.github.io/FooBar/",
+        "carrousel":[
+            "foobar-shop_2.jpg",
+            "foobar-shop_3.jpg",
+            "foobar-shop_4.jpg",
+            "foobar-shop_5.jpg"
         ]
     },
     {
@@ -33,33 +49,17 @@
     },
     {
         "header": "Jazz By Heart",
-        "text": "In this project we created a website for the jazz duo Jazz By Heart, to promote their music and ideas. My role was to implement a backend in WordPress  as well as the HTML, and JavaScript for the site. I also did all the production and post production of a promotional video for the duo.",
+        "text": "In this project we created a website for the jazz duo Jazz By Heart, to promote their music and ideas. My role was to implement a backend in WordPress  as well as the HTML, and JavaScript for the site.",
         "image": "jazz_by_heart_1.jpg",
-        "skills": "REST API | WordPress | Premiere Pro",
+        "skills": "REST API | WordPress",
         "semester": "2nd semester",
         "github": "https://github.com/aria0401/Jazz-By-Heart",
         "website": "http://ariadna.dk/portfolio/Jazz-By-Heart/",
-        "youtube": "https://youtu.be/3bBIElH0mdc",
         "carrousel":[
             "jazz_by_heart_1.jpg",
             "jazz_by_heart_2.jpg",
             "jazz_by_heart_3.jpg",
             "jazz_by_heart_4.jpg"
-        ]
-    },
-    {
-        "header": "Muserne",
-        "text": "Muserne is about the women in Picasso's life and how they influenced his art over time. In this project I implemented the  HTML, CSS and JavaScript for the site and fetched the data from a Google Sheet.",
-        "image": "picasso_1.jpg",
-        "skills": "Google Sheets API",
-        "semester": "2nd semester",
-        "github": "https://github.com/aria0401/Muserne",
-        "website": "http://ariadna.dk/portfolio/Muserne/",
-        "carrousel":[
-            "picasso_1.jpg",
-            "picasso_2.jpg",
-            "picasso_3.jpg",
-            "picasso_4.jpg"
         ]
     },
 
