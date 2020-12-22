@@ -2,7 +2,7 @@
 
     {
         "header": "FooBar Dashboard",
-        "text": "In this project, we created a dashboard to show the state at FooBar. We used React.js and SCSS as main technologies, but we also used libraries like 'styled-components' to improve the user interface. My role was to design and implement the Taps component among other tasks.",
+        "text": "This is a group project, where we created a dashboard to show the state at FooBar. We used React.js and SCSS as main technologies, but we also used libraries like 'styled-components' to improve the user interface. My role was to design and implement the Taps component among other tasks.",
         "image": "foobar-dashboard_1.jpg",
         "skills": "React | Sass",
         "semester": "3rd semester",
@@ -19,7 +19,7 @@
 
     {
         "header": "FooBar Shop",
-        "text": "In this project, we developed an ordering app for the customers at FooBar to order beers and pay for their order. The app is to be used only on Ipads, but we made it responsive for all devices. We used React.js and SCSS as main technologies, but we also used libraries like 'react-hook-form' to improve the user experience. My role was to design and implement the Form component among other tasks.",
+        "text": "This is a group project, where we developed an ordering app for the customers at FooBar to order beers and pay for their order. The app is to be used only on Ipads, but we made it responsive for all devices. We used React.js and SCSS as main technologies, but we also used libraries like 'react-hook-form' to improve the user experience. My role was to design and implement the Form component among other tasks.",
         "image": "foobar-shop_7.jpg",
         "skills": "React Hook Form",
         "semester": "3rd semester",
@@ -49,7 +49,7 @@
     },
     {
         "header": "Jazz By Heart",
-        "text": "In this project we created a website for the jazz duo Jazz By Heart, to promote their music and ideas. My role was to implement a backend in WordPress  as well as the HTML, and JavaScript for the site.",
+        "text": "This is a group project, where we created a website for the jazz duo Jazz By Heart, to promote their music and ideas. My role was to implement a backend in WordPress  as well as the HTML, and JavaScript for the site.",
         "image": "jazz_by_heart_1.jpg",
         "skills": "REST API | WordPress",
         "semester": "2nd semester",
@@ -65,7 +65,7 @@
 
     {
         "header": "21-5",
-        "text": "The company 21-5 is based on the concept that 21 Danish families together own 5 holiday homes around the world. In this project we redesigned their website to promote their values and enhance the user experience. My role was the implementation of a dashboard in WordPress as well as the HTML, CSS and JavaScript for the site.",
+        "text": "The company 21-5 is based on the concept that 21 Danish families together own 5 holiday homes around the world. This is a group project, where we redesigned their website to promote their values and enhance the user experience. My role was the implementation of a dashboard in WordPress as well as the HTML, CSS and JavaScript for the site.",
         "image": "21-5_1.jpg",
         "skills": "REST API | WordPress",
         "semester": "2nd semester",
@@ -82,7 +82,7 @@
 
     {
         "header": "Sex og Samfund",
-        "text": "In this project we created a game with the aim of spreading knowledge about illegal image sharing. I worked with the illustrations, where we chose Pixel Art as the style, and worked in Adobe Illustrator with the Rectangular Grid Tool and the Live Paint Bucket Tool.",
+        "text": "This is a group project, where we created a game with the aim of spreading knowledge about illegal image sharing. I worked with the illustrations, where we chose Pixel Art as the style, and worked in Adobe Illustrator with the Rectangular Grid Tool and the Live Paint Bucket Tool.",
         "image": "sex_samfund_1.jpg",
         "skills": "Adobe Illustrator",
         "semester": "1st semester",

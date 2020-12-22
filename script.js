@@ -76,6 +76,7 @@ function showText(element){
     if(!element.youtube){
         document.querySelector(".icon_youtube").src = "" 
     }
+    scrollFunction();
   
 }
 
@@ -99,29 +100,37 @@ function showDetailsCarrousel(element){
     document.querySelector(".legend_img_container").appendChild(toLegend);
   
    })
+//aqui
+   document.querySelector(".legend_img_container section").classList.add("legend_border");
 
-   
    document.querySelector(".the_container").addEventListener("scroll", scrollFunction);
    document.querySelectorAll(".legend_img_container section").forEach(each => {
        each.addEventListener("click", legendClicks);
+       each.style.opacity=".4";
    })
 
    document.querySelectorAll(".button").forEach(each =>{
        each.addEventListener("click", scrollFoto);
    })
+   
 }
 
 function scrollFunction(){
     document.querySelectorAll(".legend_img_container section").forEach(each => {
+        //aqui
+        each.classList.remove("legend_border");
         each.style.opacity=".4";
     })
     currentImage = Math.round(document.querySelector(".the_container").scrollLeft / document.querySelector(".carrousel_imgs").width);
+    //aqui
     document.querySelector(`.legend_img_container section:nth-child(${currentImage+1})`).style.opacity= "1";
+    document.querySelector(`.legend_img_container section:nth-child(${currentImage+1})`).classList.add("legend_border");
 
     setButtons();
 }
 
 function legendClicks(event){
+    console.log("legendClicks", event.currentTarget);
     currentImage = event.currentTarget.dataset.myIndex;
     navigate();
 }

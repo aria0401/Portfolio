@@ -124,16 +124,9 @@ footer {
   text-decoration: none;
 }
 
-/* .intro {
-  width: 80vw;
-  margin-top: 40vh;
-  margin-bottom: 6vh;
-} */
-
 .intro {
   width: 80vw;
   margin-top: 16vh;
-  /* margin-bottom: 6vh; */
 }
 
 .intro_img {
@@ -316,10 +309,11 @@ button {
 .legend_img_container section {
   display: inline-block;
   height: 8vh;
-  opacity: 0.4;
 }
 
 .legend_border {
+  outline: 0.25px solid white;
+  outline-offset: -1px;
   opacity: 1;
 }
 
@@ -705,11 +699,7 @@ button {
     flex-basis: 580px;
   }
   .legend_img_container section {
-    height: 4vh;
-  }
-
-  .legend_img_container img {
-    height: 200%;
+    height: 8vh;
   }
 
   .icon {
